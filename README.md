@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--# SHAPEAI WEB DEV BOOTCAMP
 
 
